@@ -1,10 +1,8 @@
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/aanchalgupta116)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=aanchalgupta116&animated=true" alt="LeetCode Badges"/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aanchalgupta116)
-
-- 👋 Hi, I’m @AanchalGupta1162
+- 👋 Hi, I’m Aanchal
 - 👀 I’m interested in creating groundbreaking projects
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Generative AI and Blockchain
 - 😄 Pronouns: she/her
 
